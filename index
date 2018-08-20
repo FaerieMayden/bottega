@@ -1,40 +1,5 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Embedded CSS</title>
-    <link href="css/custom/styles.css" rel="stylesheet">
-  </head>
+#prework
 
-  <body>
-    <div id="heading">
-    body {
-  font-family: sans-serif;
-  color: #ab3939;
-}
+#front-end-foundations-and-technology-lab
 
-#heading {
-  padding: 42px;
-  background-color: #e8e8e8;
-}
-
-#page-title {
-
-}
-
-.content {
-  font-size: 0.8em;
-  color: #767676;
-}
-      <h1 id="page-title">My Heading</h1>
-
-      <p class="content">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-      </p>
-
-      <p class="content">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-      </p>
-    </div>
-  </body>
-
-</html>
+#full-stack-development-with-javascript-and-python
